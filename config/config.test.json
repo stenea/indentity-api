@@ -1,0 +1,26 @@
+{
+  "api": {
+    "port": 8000
+  },
+  "web": {
+    "host": "http://localhost",
+    "port": 3000
+  },
+  "database": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "pool": {
+      "max": 5,
+      "min": 0,
+      "idle": 10000
+    }
+  },
+  "email": {
+    "service": "gmail",
+    "username": "persona.identity.api@gmail.com",
+    "password": "Qwerty123!@#"
+  }
+}
