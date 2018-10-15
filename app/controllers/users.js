@@ -50,7 +50,7 @@ const confirmUser = ({address, password, token}) => {
 
                         update(toUpdate, userInfo.dataValues.id)
                             .then(() => resolve({
-                                success: true,
+                                username
                             }))
                             .catch(reject)
                     }
