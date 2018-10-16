@@ -1,4 +1,4 @@
-# Persona Itentity client
+# Persona Identity client
 
 In order to register on Persona and create a Persona ID a non-authenticated user should complete a form with two fields: Username and E-mail (both mandatory). After submitting the registration form, an e-mail with a link that will redirect the user to set his/her password will be sent to the address provided. 
 
