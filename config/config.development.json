@@ -23,6 +23,6 @@
     "host": "smtp.sendgrid.net",
     "port": 587,
     "username": "persona.identity.api",
-    "password": "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"
+    "password": "-----"
   }
 }
